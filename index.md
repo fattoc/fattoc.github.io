@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## 你好
 
-You can use the [editor on GitHub](https://github.com/fattoc/fattoc.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### 域名出售 1010.fun
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**十全十美，壹⭕️(一元)复始。二进制1010，十进制10，16进制a，32进制A。**
 
-### Markdown
+**一次买断，10年内不用续费**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 联系方式 fattoc@sina.com
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fattoc/fattoc.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Support or Contact 
